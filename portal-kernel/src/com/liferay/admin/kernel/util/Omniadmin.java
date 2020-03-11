@@ -25,4 +25,6 @@ public interface Omniadmin {
 
 	public boolean isOmniadmin(User user);
 
+
+
 }
